@@ -34,4 +34,4 @@
 
 The stack for Amazon machine learning has three tiers
 
-![image.png](attachment:image.png)
+https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1669280400/Ijq15JqIB23GWPz3e2tYPw/tincan/f1a4aeb61362d49a596d6d0d54fe655a6e4f9bb9/assets/t0kfpC3Z1zNe91iM_TMYIux2Q7URA2EGz.png
