@@ -1,6 +1,6 @@
 # AWS-ML-Speciality-CheatSheet
 
-# This notebook can be used to referesh your concepts regarding various ML services provided by AWS and their use and benefits
+# The series of notebooks can be used to referesh your concepts for ML Speciality Certification provided by AWS 
 
 <b> The AWS Machine learning speciality evaluates the candiate primarily in 4 sections</b>
 1. Data engineering - 20%
